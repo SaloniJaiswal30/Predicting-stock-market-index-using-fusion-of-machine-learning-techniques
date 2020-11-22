@@ -1,2 +1,2 @@
 # Predicting-stock-market-index-using-fusion-of-machine-learning-techniques
-This project is to determine the future value of the company stock by doing stock market prediction. In this comparison between two approaches has been done.
+This project is to determine the future value of the company stock by doing stock market prediction.In this approach we are doing technical analysis using technical indicators with the help of machine learning. Ten technical indicators are selected as the inputs to each of the prediction models. The predictions are made for 1–10, 15 and 30 days in advance. The prediction performance of these hybrid models is compared with the single stage scenarios.
